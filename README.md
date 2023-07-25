@@ -22,8 +22,9 @@ Output
 ^:eD6l,sQm`Zkg;T
 ```
 
+&nbsp;
 
-##  (Additional explanations) What does "string" contain?
+## What does "string" contain? (Additional explanations)
 
 string.ascii_letters
 ```python
