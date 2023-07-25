@@ -26,16 +26,17 @@ Output
 
 ## What does "string" contain? (Additional explanations)
 
-string.ascii_letters
 ```python
 string.ascii_letters
 ```
 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+&nbsp;
 
 ```python
 string.digits
 ```
 '0123456789'
+&nbsp;
 
 ```python
 string.punctuation
